@@ -5,8 +5,11 @@
 ### Corrections des exercices :
 
 📄 [TP Echequier](Echequier.java)
+
 📄 [TP Théorie des grands nombres](LancerDeDes.java)
+
 📄 [TP Palindrome.java](Palindrome.java)
+
 📄 [TP Nombres Premiers.java](NombrePremier.java)
 
 ### Démonstrations live
