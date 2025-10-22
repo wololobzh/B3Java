@@ -21,7 +21,7 @@ RAS
 
 == Consignes
 
-Écrivez un programme pour déclarer un tableau, puis saisissez ses éléments à partir de l'utilisateur et recherchez l'élément le plus grand et le deuxième élément de ce tableau.
+Écrivez un programme pour déclarer un tableau, puis saisissez ses éléments à partir de l'utilisateur et recherchez l'élément le plus grand et le deuxième plus grand élément de ce tableau.
 
 == Déroulement
 
