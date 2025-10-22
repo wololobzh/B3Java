@@ -1,6 +1,6 @@
-# Jour 2
+## Jour 2
 
-## Démonstration en live
+### Démonstration en live
 
 ```java
 public class Jour2 {
