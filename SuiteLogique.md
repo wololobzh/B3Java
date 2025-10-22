@@ -11,6 +11,10 @@
 
 2 - Une fois avoir trouvé, mettez en place l’algorithme permettant de continuer cette suite à une profondeur de 10.
 
+3 - Une fois avoir trouvé, mettez en place l’algorithme permettant de continuer cette suite à une profondeur de 40.
+
+4 - L'execution doit durer moins de 500 ms.
+
 ## Déroulement
    
 1
