@@ -1,5 +1,9 @@
 ## Jour 2
 
+### Exercices
+
+[Le Plus Grand](lePlusGrand.md)
+
 ### Démonstration en live
 
 ```java
