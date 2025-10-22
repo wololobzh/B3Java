@@ -5,8 +5,11 @@
 [Le Plus Grand](ExoLePlusGrand.md)
 
 [Le Plus Grand V2](ExoLePlusGrandV2.md)
+
 [Père Castor](HistoireDEnfant.md)
+
 [Pair](Pair.md)
+
 [Suite logique](SuiteLogique.md)
 
 ### Démonstration en live
