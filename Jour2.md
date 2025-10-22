@@ -2,7 +2,7 @@
 
 ### Exercices
 
-[Le Plus Grand](lePlusGrand.md)
+[Le Plus Grand](ExoLePlusGrand.md)
 
 ### Démonstration en live
 
