@@ -4,7 +4,7 @@ Ecrivez une fonction qui attend en parametre un number et une string.
 
 La fonction doit retourner une phrase :
 
-"Il était une fois un monstre qui s’appelé XXX et qui avait XXX enfants."
+"Il était une fois un monstre qui s’appelait XXX et qui avait XXX enfants."
 
 Testez cette fonction avec des valeurs en dur.
 
