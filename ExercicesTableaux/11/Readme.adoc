@@ -1,0 +1,8 @@
+:numero: 11
+:titre_exo: Voyelles
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+== Consignes
+
+Ecrire un algorithme qui déclare et remplisse un tableau contenant les six voyelles de l’alphabet latin. 

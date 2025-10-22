@@ -1,0 +1,9 @@
+:numero: 16
+:titre_exo: Moyenne des notes
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+== Consignes
+
+Ecrivez un algorithme qui permet de saisir des notes et de les stocker dans un tableau et d'afficher la moyenne lorsque l'utilisateur saisie -1
+

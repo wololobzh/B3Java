@@ -1,0 +1,6 @@
+:icons: font
+
+= Exercice XX : Correction
+
+Cet algorithme remplit un tableau de 8 valeurs : 1, 1, 2, 3, 5, 8, 13, 21 
+

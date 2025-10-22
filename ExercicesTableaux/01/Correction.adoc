@@ -1,0 +1,26 @@
+:icons: font
+
+= Exercice 01 : Correction
+
+Écrivez un programme pour déclarer et initialiser un tableau, puis saisissez ses éléments à partir de l'utilisateur et affichez le tableau.
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Liste
+Var nbElements: Entier
+Var listeElements: []
+Début
+    Afficher("Saisir le nombre d'éléments : ")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        Afficher(listeElements[i])
+    FinPour
+Fin
+```

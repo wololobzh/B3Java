@@ -1,0 +1,28 @@
+:icons: font
+
+= Exercice 02 : Correction
+
+Écrivez un programme pour déclarer un tableau, puis saisissez ses éléments par l'utilisateur et affichez tous les éléments négatifs.
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Liste_Negatifs
+Var nbElements: Entier
+Var listeElements: []
+Début
+    Afficher("Saisir le nombre d'éléments")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        Si listeElements[i] < 0 Alors
+            Afficher(listeElements[i])
+        FinSi
+    FinPour
+Fin
+```

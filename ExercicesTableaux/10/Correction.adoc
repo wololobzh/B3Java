@@ -1,0 +1,18 @@
+:icons: font
+
+= Exercice 10 : Correction
+
+Ecrire un algorithme qui déclare et remplisse un tableau de 7 valeurs numériques en les mettant toutes à zéro. 
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableau_Vide
+Var tableauVide: []
+Début
+    Pour i de 0 à 6
+        tableauVide[i] <- 0
+    FinPour
+Fin
+```

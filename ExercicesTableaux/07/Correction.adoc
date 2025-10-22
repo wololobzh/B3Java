@@ -1,0 +1,36 @@
+:icons: font
+
+= Exercice 07 : Correction
+
+Écrivez un programme pour déclarer deux tableaux, puis entrez les éléments du premier tableau de l'utilisateur et copiez tous ses éléments dans le deuxième tableau
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Copie
+Var nbElements: Entier
+Var listeElements: []
+Var listeCopie: []
+Début
+    Afficher("Saisir le nombre d'éléments")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        listeCopie[i] <- listeElements[i]
+    FinPour
+    
+    Afficher("Les éléments du tableau source sont :")
+    Pour i de 0 à nbElements - 1
+        Afficher(listeElements[i])
+    FinPour
+    
+    Pour i de 0 à nbElements - 1
+        Afficher(listeCopie[i])
+    FinPour
+Fin
+```

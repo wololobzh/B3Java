@@ -1,0 +1,34 @@
+:icons: font
+
+= Exercice XX : Correction
+
+On suppose que N est le nombre d’éléments du tableau. Tri par insertion :
+…
+Pour i ← 0 à N – 2
+ posmaxi = i
+ Pour j ← i + 1 à N – 1
+ Si t(j) > t(posmaxi) alors
+ posmaxi ← j
+ Finsi
+ j suivant
+ temp ← t(posmaxi)
+ t(posmaxi) ← t(i)
+ t(i) ← temp
+i suivant
+Fin
+Tri à bulles :
+…
+Yapermut ← Vrai
+TantQue Yapermut
+ Yapermut ← Faux
+ Pour i ← 0 à N – 2
+ Si t(i) < t(i + 1) Alors
+ temp ← t(i)
+ t(i) ← t(i + 1)
+ t(i + 1) ← temp
+ Yapermut ← Vrai
+ Finsi
+ i suivant
+FinTantQue
+Fin
+

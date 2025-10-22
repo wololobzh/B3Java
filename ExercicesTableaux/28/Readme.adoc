@@ -1,0 +1,9 @@
+:numero: 28
+:titre_exo: Dictionnaire
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+== Consignes
+
+Ecrivez l'algorithme qui recherche un mot saisi au clavier dans un dictionnaire. Le dictionnaire est supposé être codé dans un tableau préalablement rempli et trié. 
+

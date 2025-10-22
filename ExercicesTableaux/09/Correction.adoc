@@ -1,0 +1,22 @@
+:icons: font
+
+= Exercice 09 : Correction
+
+Créez un tableau qui contient le nom de 5 villes.
+
+Affichez ces cinq villes dans la console en utilisant les index de chaque element.
+
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableau_Ville
+Var listeVilles: []
+Début
+    listeVilles <- ["Paris", "Marseille", "Nantes", "Lyon", "Lille"]
+    Pour i de 0 à 4
+        Afficher(listeVilles[i])
+    FinPour
+Fin
+```

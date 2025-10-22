@@ -1,0 +1,28 @@
+:icons: font
+
+= Exercice XX : Correction
+
+Variables Nb, i, Som, Moy, Nbsup en Numérique
+Tableau T() en Numérique
+Debut
+Ecrire "Entrez le nombre de notes à saisir : "
+Lire Nb
+Redim T(Nb-1)
+Pour i ← 0 à Nb – 1
+ Ecrire "Entrez le nombre n° ", i + 1
+ Lire T(i)
+i Suivant
+Som ← 0
+Pour i ← 0 à Nb – 1
+ Som ← Som + T(i)
+i Suivant
+Moy ← Som / Nb
+NbSup ← 0
+Pour i ← 0 à Nb – 1
+ Si T(i) > Moy Alors
+ NbSup ← NbSup + 1
+ FinSi
+i Suivant
+Ecrire NbSup, " élèves dépassent la moyenne de la classe"
+Fin
+

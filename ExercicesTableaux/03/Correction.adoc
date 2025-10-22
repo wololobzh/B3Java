@@ -1,0 +1,28 @@
+:icons: font
+
+= Exercice 03 : Correction
+
+Écrire un programme pour déclarer un tableau, puis saisir ses éléments à partir de l'utilisateur et trouver la somme des éléments du tableau
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Somme
+Var nbElements: Entier
+Var listeElements: []
+Var somme : Entier
+Début
+    Afficher("Saisir le nombre d'éléments")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        somme <- somme + listeElements[i]
+    FinPour
+    Afficher("La somme = " & somme)
+Fin
+```

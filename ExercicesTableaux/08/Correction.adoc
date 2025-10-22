@@ -1,0 +1,18 @@
+:icons: font
+
+= Exercice XX : Correction
+
+.Consignes pour la correction d'un exercice
+****
+
+IMPORTANT: A supprimer 😉
+
+Pour faciliter la maintenance de la correction, ne pas mettre d'extrait de code de l'exercice dans ce fichier.
+
+Détailler le cheminement de pensée pour arriver à la solution. Faire des rappels de cours si nécessaire avec une analogie.
+
+Coder la correction dans le répertoire `correction` et bien commenter le code.
+
+****
+
+

@@ -1,0 +1,37 @@
+:icons: font
+
+= Exercice 05 : Correction
+
+Écrivez un programme pour déclarer un tableau, puis saisissez ses éléments à partir de l'utilisateur et recherchez l'élément le plus grand et le deuxième élément de ce tableau.
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Max_Max2
+Var nbElements: Entier
+Var listeElements: []
+Var max : Entier
+Var max2 : Entier
+Début
+    max <- -9999999
+    max2 <- max
+    Afficher("Saisir le nombre d'éléments")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        Si listeElements[i] > max Alors
+            max2 <- max
+            max <- listeElements[i]
+        SinonSi listeElements[i] > max2 Alors
+            max2 <- listeElements[i]
+        FinSi
+    FinPour
+    Afficher("Premier plus grand = " & max)
+    Afficher("Deuxième plus grand = " & max2)
+Fin
+```

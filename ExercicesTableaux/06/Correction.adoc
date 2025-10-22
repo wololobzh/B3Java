@@ -1,0 +1,37 @@
+:icons: font
+
+= Exercice 06 : Correction
+
+Écrivez un programme pour déclarer un tableau, puis saisissez ses éléments à partir de l'utilisateur et comptez le nombre d'éléments pairs et impairs dans ce tableau
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableaux_Pair_Impair
+Var nbElements: Entier
+Var listeElements: []
+Var nbPair : Entier
+Var nbImpair : Entier
+Début
+    nbPair <- 0
+    nbImpair <- 0
+    Afficher("Saisir le nombre d'éléments")
+    nbElements <- Saisir()
+    Pour i de 1 à nbElements
+        Afficher("Elément " & i & " : ")
+        listeElements[i - 1] <- Saisir()
+    FinPour
+
+    Pour i de 0 à nbElements - 1
+        Si listeElements[i] % 2 = 0 Alors
+            nbPair <- nbPair + 1
+        Sinon
+            nbImpair <- nbImpair + 1
+        FinSi
+    FinPour
+    
+    Afficher("Nombre d'éléments pairs = " & nbPair)
+    Afficher("Nombre d'éléments impairs = " & nbImpair)
+Fin
+```

@@ -1,0 +1,40 @@
+:numero: 07
+:titre_exo: Un tableau dans un autre
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+== Prérequis
+
+* Les variables
+* Les conditionnelles
+* La boucle for
+* Les tableaux
+* Les fonctions
+
+== Objectifs
+
+// tag::objectifs[]
+Maitriser les fonction
+// end::objectifs[]
+
+== Ressources
+
+RAS
+
+== Consignes
+
+Écrivez un programme pour déclarer deux tableaux, puis entrez les éléments du premier tableau de l'utilisateur et copiez tous ses éléments dans le deuxième tableau
+
+== Déroulement
+
+Données d'entrée 
+Saisir le nombre d'éléments : 5
+Elément 1 : 3
+Elément 2 : 7
+Elément 3 : 4
+Elément 4 : 9
+Elément 5 : 8
+
+Données de sortie
+Les éléments du tableau source sont : 3, 7, 4, 9, 8
+Les éléments du tableau dest sont : 3, 7, 4, 9, 8

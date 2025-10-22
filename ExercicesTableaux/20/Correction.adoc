@@ -1,0 +1,20 @@
+:icons: font
+
+= Exercice XX : Correction
+
+Variables i, j, N1, N2, S en Numérique
+Tableaux T1(), T2() en Numérique
+Debut
+… On ne programme pas la saisie des tableaux T1 et T2.
+(On suppose que T1 possède N1 éléments, et que T2 en possède T2)
+…
+S ← 0
+Pour i ← 0 à N1 – 1
+ Pour j ← 0 à N2 – 1
+ S ← S + T1(i) * T2(j)
+ j Suivant
+i Suivant
+Ecrire "Le schtroumpf est : ", S
+Fin
+
+

@@ -1,0 +1,8 @@
+:numero: 21
+:titre_exo: plus hein !
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+== Consignes
+
+Ecrivez un algorithme qui permette la saisie d’un nombre quelconque de valeurs. Toutes les valeurs doivent être ensuite augmentées de 1, et le nouveau tableau sera affiché à l’écran

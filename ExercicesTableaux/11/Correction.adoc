@@ -1,0 +1,21 @@
+:icons: font
+
+= Exercice 11 : Correction
+
+Ecrire un algorithme qui déclare et remplisse un tableau contenant les six voyelles de l’alphabet latin. 
+
+== Algorithme 1
+
+
+```raw
+Algorithme Tableau_voyelles
+Var listeLettres: []
+Début
+    listeLettres[0] <- "a"
+    listeLettres[1] <- "e"
+    listeLettres[2] <- "i"
+    listeLettres[3] <- "o"
+    listeLettres[4] <- "u"
+    listeLettres[5] <- "y"
+Fin
+```
