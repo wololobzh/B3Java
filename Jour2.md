@@ -12,6 +12,8 @@
 
 [Suite logique](SuiteLogique.md)
 
+[n entier avec While](nEntierAvecWhile.md)
+
 ### Démonstration en live
 
 ```java
