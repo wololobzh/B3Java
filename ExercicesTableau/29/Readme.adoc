@@ -1,0 +1,11 @@
+:numero: 29
+:titre_exo: Multidimension
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+// tag::objectifs[]
+// end::objectifs[]
+
+== Consignes
+
+Écrivez un algorithme remplissant un tableau de 6 sur 13, avec des zéros. 

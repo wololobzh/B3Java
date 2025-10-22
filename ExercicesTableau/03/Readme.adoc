@@ -1,0 +1,40 @@
+:numero: 03
+:titre_exo: Somme d'un tableau
+include::/app/adoc/libs/header-exercice.adoc[]
+
+// tag::objectifs[]
+// end::objectifs[]
+
+== Prérequis
+
+* Les variables
+* Les conditionnelles
+* La boucle for
+* Les tableaux
+
+== Objectifs
+
+// tag::objectifs[]
+Maitriser les tableaux
+// end::objectifs[]
+
+== Ressources
+
+RAS
+
+== Consignes
+
+Écrire un programme pour déclarer un tableau, puis saisir ses éléments à partir de l'utilisateur et trouver la somme des éléments du tableau
+
+== Déroulement
+
+Données d'entrée 
+Saisir le nombre d'éléments : 5
+Elément 1 : 3
+Elément 2 : 7
+Elément 3 : 4
+Elément 4 : 9
+Elément 5 : 8
+
+Données de sortie
+la somme = 31

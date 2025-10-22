@@ -1,0 +1,13 @@
+:numero: 26
+:titre_exo: Inverseur
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+// tag::objectifs[]
+// end::objectifs[]
+
+== Consignes
+
+Ecrivez un algorithme qui inverse l’ordre des éléments d’un tableau dont on suppose qu'il
+a été préalablement saisi (« les premiers seront les derniers… ») 
+

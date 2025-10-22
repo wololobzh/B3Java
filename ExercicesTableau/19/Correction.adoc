@@ -1,0 +1,15 @@
+:icons: font
+
+= Exercice XX : Correction
+
+Variables i, N en Numérique
+Tableaux T1(), T2(), T3() en Numérique
+Debut
+… (on suppose que T1 et T2 comptent N éléments, et qu’ils sont déjà saisis)
+Redim T3(N-1)
+…
+Pour i ← 0 à N – 1
+ T3(i) ← T1(i) + T2(i)
+i Suivant
+Fin
+

@@ -1,0 +1,13 @@
+:numero: 18
+:titre_exo: Somme des valeurs
+
+include::/app/adoc/libs/header-exercice.adoc[]
+
+// tag::objectifs[]
+// end::objectifs[]
+
+== Consignes
+
+Ecrivez un algorithme calculant la somme des valeurs d’un tableau (on suppose que le
+tableau a été préalablement saisi). 
+

@@ -1,0 +1,16 @@
+:icons: font
+
+= Exercice XX : Correction
+
+Variables i, Som, N en Numérique
+Tableau T() en Numérique
+Debut
+… (on ne programme pas la saisie du tableau, dont on suppose qu’il compte N éléments)
+Redim T(N-1)
+…
+Som ← 0
+Pour i ← 0 à N – 1
+ Som ← Som + T(i)
+i Suivant
+Ecrire "Somme des éléments du tableau : ", Som
+Fin
