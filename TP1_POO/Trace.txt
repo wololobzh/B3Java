@@ -1,0 +1,25 @@
+---------------------------------------------------
+Classe : Classe Rouge
+   Instituteur : Julie Michot
+     avec :
+     Sidonie Amiral
+     Marius Amiral
+     Antoine Amiral
+     Marie Amiral
+     Eloise Amiral
+     Emilie Mariot
+     Amaury Mariot
+---------------------------------------------------
+
+---------------------------------------------------
+Classe : Classe Verte
+   Instituteur : Marcel Tanguy
+     avec :
+     Louis Duchemin
+     Marie Duchemin
+     Lucas Duchemin
+     Emie Lamartine
+     Tom Marchand
+     Leo Marchand
+     Simon Marchand
+     Pierre Durant
