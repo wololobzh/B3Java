@@ -9,11 +9,11 @@
 [Jour2](Jour2.md)
 
 ## Jour 3 : POO
-[Jour3](Jour3.md)
+[Jour3](jour3.md)
 
 ## Jour 4 : POO et évaluation
 
-[Jour4](Jour4.md)
+[Jour4](jour4.md)
 
 
 
