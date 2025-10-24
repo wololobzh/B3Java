@@ -8,11 +8,10 @@
 
 [Jour2](Jour2.md)
 
-## Jour 3 : Fondamentaux : Fonctions et variables complexes
-
+## Jour 3 : POO
 [Jour3](Jour3.md)
 
-## Jour 4 : Fondamentaux : Fonctions et variables complexes
+## Jour 4 : POO et évaluation
 
 [Jour4](Jour4.md)
 
